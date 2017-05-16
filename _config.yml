@@ -1,7 +1,7 @@
 # Site settings
 title: Feargal Walsh
 email: feargswalsh@gmail.com
-url: https://feargswalsh92.github.io/freelancerSite
+url: https://feargswalsh92.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Mobile developer - Alexa developer - User Experience Designer"
@@ -61,5 +61,3 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-theme: jekyll-theme-leap-day
