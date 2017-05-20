@@ -2,10 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: graphs.png
+img: campus1871.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: <embed src="Resume2page.pdf" width = "800px" height = "2100px"/>
+project-date: March 2017
+category: Hackathon overall runners-up.
+description: <a href= "http://chicagoinno.streetwise.co/2017/04/04/a-wearable-for-asthma-patients-wins-1871s-college-hackathon/"> Link to Article </a>
+
+
 ---

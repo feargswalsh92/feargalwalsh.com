@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-14
+modal-id: 5
 img: safe.png
 alt: image-alt
-project-date:
-client: Capital-One-Modev
-category: Alexa Hackathon
-description: <a href=https://www.modev.com/blog/capital-one-cafe-hackathon-results> Link to Article </a>
+project-date: September - May 2017
+client: <a href= "https://allthingsswift.org/" > All things Swift </a>
+category: Meetup
+description: <p> I run and speak a monthly Swift Meetup for iOS developers in the Chicago area. </p>
+
 
 ---

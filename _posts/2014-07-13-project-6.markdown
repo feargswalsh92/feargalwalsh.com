@@ -1,12 +1,15 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2014-07-15
-img: campus1871.png
+img: graphs.png
 alt: image-alt
 project-date: March 2017
-client: Campus 1871
-category: Hackathon
-description: <a href= "http://chicagoinno.streetwise.co/2017/04/04/a-wearable-for-asthma-patients-wins-1871s-college-hackathon/"> Link to Article </a>
+client: Resume
+category: Web Development and Mobile
+description: <embed src="Resume2page.pdf" width = "800px" height = "2100px"/>
+
+
+
 
 ---
