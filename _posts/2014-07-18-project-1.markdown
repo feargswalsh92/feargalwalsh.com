@@ -9,7 +9,7 @@ client: Sean McGuire
 category: Web Development
 description:  <div>
                 <h3> Before </h3>
-                    <img src="/img/portfolio/mcVanOld.png" alt = "Before" style ="width:700px;height:900px;">
+                    <img src="img/portfolio/mcVanOld.png" alt = "Before" style ="width:700px;height:900px;">
                          <div>
                              <h3> After </h3>
                                <img src="/img/portfolio/servicesMcVan.png" alt ="After"style="width:700px;height:437.5px;">
