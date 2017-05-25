@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: mcVan.png
+img: mcVan.WebP
 alt: image-alt
 project-date: April 2017
 client: Sean McGuire
