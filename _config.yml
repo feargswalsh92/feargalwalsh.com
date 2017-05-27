@@ -2,9 +2,9 @@
 title: Feargal Walsh
 email: feargswalsh@gmail.com
 url:
-description: "You name it I can build it!"
+description: "I love collaborating with a team to make phenomenal mobile and web experiences for users."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Mobile Developer - Alexa Developer - User Experience Designer"
+skills: "Front-end Web Developer - iOS Developer"
 meta_author: Walsh Feargal
 
 # Google webmaster tools
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: West Loop, 
+  - line: West Loop,
   - line: Chicago, IL, 60607
 
 # Credits content
