@@ -1,0 +1,22 @@
+{
+  "name": "feargswalsh92.github.io",
+  "version": "1.0.0",
+  "description": "View site in action [here](https://feargswalsh92.github.io/) ## Description of technologies I used jekyll and Github pages static site to display my portfolio and some info about me.The site is optimized for fast loading speed by compressing images. If you would like to contribute to the site feel free to fork the repository and make a pull request. Also feel free to give me feedback on both the user experience and the code, I'm all ears!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feargswalsh92/feargswalsh92.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feargswalsh92/feargswalsh92.github.io/issues"
+  },
+  "homepage": "https://github.com/feargswalsh92/feargswalsh92.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
