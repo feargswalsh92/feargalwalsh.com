@@ -3,6 +3,8 @@
 
 var gulp = require('gulp');
 var critical = require('critical');
+var replace = require('gulp-replace');
+var fs = require('fs');
 
 // load plugins
 var $ = require('gulp-load-plugins')();
@@ -12,6 +14,17 @@ gulp.task('styles', function () {
         .pipe($.autoprefixer('last 1 version'))
         .pipe(gulp.dest('.tmp/styles'))
         .pipe($.size());
+});
+
+
+gulp.task('include-css', function(){
+  return gulp.src('_site/**/*.html')
+     .pipe(replace(/<link href="\/css\/main.css\"[^>]*>/,
+   function(s) {
+     var style = fs.readFileSync('_site/css/main.css' , 'utf8') ;
+     return '<style>\n' + style + '\n<style>';
+   }))
+   .pipe(gulp.dest('_site/'));
 });
 
 
@@ -83,7 +96,7 @@ gulp.task('critical', ['build'], function () {
       inline: true,
       base: 'dist/',
       src: 'index.html',
-      dest: 'dist/index.html',
+      dest: 'dist/index-critical.html',
       minify: true,
       width: 320,
       height: 480
