@@ -19,6 +19,7 @@
   "devDependencies": {
     "critical": "^0.8.4",
     "default": "^0.1.1",
+    "grunt": "^1.0.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-cache": "^0.4.6",
