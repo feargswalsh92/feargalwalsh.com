@@ -1,7 +1,7 @@
 # Site settings
 title: Feargal Walsh
 email: feargswalsh@gmail.com
-url:
+url: https://www.feargalwalsh.com/
 description: "I love collaborating with a team to make phenomenal mobile and web experiences for users."
 keywords: "your keywords, separated by commas"
 skills: "iOS Developer | MS in Computer Science"
@@ -17,6 +17,7 @@ exclude:
     - package.json
     - node_modules
     - gulpfile.js
+    - vendor
 # Contact form:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
@@ -56,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: West Loop,
-  - line: Chicago, IL, 60607
+  - line: San Francisco 
+  - line: CA, 94110
 
 # Credits content
 credits:
