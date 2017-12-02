@@ -3,7 +3,7 @@ title: Feargal Walsh
 email: feargswalsh@gmail.com
 url: https://www.feargalwalsh.com/
 description: "I love collaborating with a team to make phenomenal mobile and web experiences for users."
-keywords: "your keywords, separated by commas"
+keywords: "web, iOS, react native, frontend, developer"
 skills: "iOS Developer | MS in Computer Science"
 meta_author: Walsh Feargal
 
@@ -44,8 +44,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/Berghaus92
+  - title: medium
+    url: https://medium.com/@feargswalsh/the-two-most-effective-ways-to-improve-your-website-page-speed-f1da85339c37
   - title: linkedin
     url: https://www.linkedin.com/in/feargalwalsh/
   - title: stack-overflow
