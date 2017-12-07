@@ -3,13 +3,8 @@ title: Feargal Walsh
 email: feargswalsh@gmail.com
 url: https://www.feargalwalsh.com/
 description: "I love collaborating with a team to make phenomenal mobile and web experiences for users."
-<<<<<<< HEAD
 keywords: "web, iOS, react native, frontend, developer"
 skills: "I build software that solves business problems."
-=======
-keywords: "your keywords, separated by commas"
-skills: "iOS Developer | MS in Computer Science"
->>>>>>> parent of 5361321d... added blog button to navbar and bottom nav but can't find medium icon in font awesome as of now
 meta_author: Walsh Feargal
 
 # Google webmaster tools
@@ -49,13 +44,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-<<<<<<< HEAD
   - title: medium
     url: https://medium.com/@feargswalsh
-=======
-  - title: twitter
-    url: https://twitter.com/Berghaus92
->>>>>>> parent of 5361321d... added blog button to navbar and bottom nav but can't find medium icon in font awesome as of now
   - title: linkedin
     url: https://www.linkedin.com/in/feargalwalsh/
   - title: stack-overflow
