@@ -267,7 +267,7 @@ section.success {
 .btn-outline.active {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
-    background: #ffffff;
+    background: #fff
 }
 
 .floating-label-form-group {
@@ -573,11 +573,12 @@ footer .footer-below {
   
   /* Make sure all circles are at the same spot */
     .left::after, .right::after {
-      left: 15px;
+      left: 4px;
     }
   
   /* Make all right containers behave like the left ones */
     .right {
       left: 0%;
     }
-  }
+   
+}
