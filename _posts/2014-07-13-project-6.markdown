@@ -9,7 +9,4 @@ client: Resume
 category: Web Development and Mobile
 description: <embed src="Resume2page.pdf" width = "800px" height = "2100px"/>
 
-
-
-
 ---
