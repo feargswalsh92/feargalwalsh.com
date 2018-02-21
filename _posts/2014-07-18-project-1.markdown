@@ -5,18 +5,12 @@ date: 2014-07-18
 img: mcVan.png
 alt: image-alt
 project-date: April 2017
-client: Sean McGuire
+client: McVan Development
 category: Web Development
 description:  <div>
-                <h3> Before </h3>
-                    <img src="img/portfolio/mcVanOld.png" alt = "Before" style ="width:700px;height:900px;">
-                         <div>
-                             <h3> After </h3>
-                               <img src="/img/portfolio/servicesMcVan.png" alt ="After"style="width:700px;height:437.5px;">
-                                <img src="/img/portfolio/portfolioMcVan.png" alt ="After"style="width:700px;height:650.96px;">
-                               <a href="http://mcvandevelopment.com/"> Check out the site </a>
-                    </div>
-              </div>
+  <p> Used JavaScript, Bootstrap, Jekyll , HTML, CSS, Github Pages and Netlify to devlop this static site. </p>
+   <a href= "http://www.mcvandevelopment.com"> Link to Site </a>
+    </div>
 
 
 ---

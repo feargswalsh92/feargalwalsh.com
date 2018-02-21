@@ -570,7 +570,7 @@ footer .footer-below {
       border-width: 10px 10px 10px 0;
       border-color: transparent white transparent transparent;
     }
-  
+   
   /* Make sure all circles are at the same spot */
     .left::after, .right::after {
       left: 4px;
