@@ -570,12 +570,7 @@ footer .footer-below {
       border-width: 10px 10px 10px 0;
       border-color: transparent white transparent transparent;
     }
-   .img-portfolioContainer {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius: 6px;
-   }
+   
   /* Make sure all circles are at the same spot */
     .left::after, .right::after {
       left: 4px;
