@@ -1,45 +1,16 @@
 {
-  "name": "feargswalsh92.github.io",
-  "version": "1.0.0",
-  "description": "View site in action [here](https://feargswalsh92.github.io/) ## Description of technologies I used jekyll and Github pages static site to display my portfolio and some info about me.The site is optimized for fast loading speed by compressing images. If you would like to contribute to the site feel free to fork the repository and make a pull request. Also feel free to give me feedback on both the user experience and the code, I'm all ears!",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/feargswalsh92/feargswalsh92.github.io.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/feargswalsh92/feargswalsh92.github.io/issues"
-  },
-  "homepage": "https://github.com/feargswalsh92/feargswalsh92.github.io#readme",
-  "devDependencies": {
-    "critical": "^0.8.4",
-    "default": "^0.1.1",
-    "grunt": "^1.0.1",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^4.0.0",
-    "gulp-cache": "^0.4.6",
-    "gulp-clean": "^0.3.2",
-    "gulp-csso": "^3.0.0",
-    "gulp-filter": "^5.0.0",
-    "gulp-flatten": "^0.3.1",
-    "gulp-imagemin": "^3.3.0",
-    "gulp-jshint": "^2.0.4",
-    "gulp-main-bower-files": "^1.6.2",
-    "gulp-replace": "^0.5.4",
-    "gulp-size": "^2.1.0",
-    "gulp-uglify": "^3.0.0",
-    "gulp-useref": "^3.1.2",
-    "jshint": "^2.9.4",
-    "jshint-stylish": "^2.2.1"
-  },
+  "name": "feargalwalsh.com",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "bower-json": "^0.8.1",
-    "critical": "^0.8.4",
-    "gulp-load-plugins": "^1.5.0"
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }
