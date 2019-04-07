@@ -73,6 +73,10 @@ li.on:before {
   content: '📱';
 }
 
+li.resume:before {
+  content: '📄';
+}
+
 /* desktop */
 
 @media only screen and (min-width: 768px) {
