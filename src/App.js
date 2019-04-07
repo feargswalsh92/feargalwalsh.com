@@ -15,7 +15,7 @@ class App extends Component {
         <li class="lives">Lives in <a href="https://goo.gl/maps/hWSw1iW4oT42" target="_blank">San Francisco</a></li>
         <li class="made">Made in <a href="https://goo.gl/maps/DP63Mgr9iTn" target="_blank">Ireland</a></li>
         <li class="loves">Loves <a href="http://www.ycombinator.com/" target="_blank">YC, </a> Kanye and Yoga.</li>
-        <li class="on">On <a href="https://github.com/feargswalsh92" target="_blank">Github </a>and <a href="https://medium.com/@feargswalsh" target="_blank">Medium</a></li>
+        <li class="on">On <a href="https://github.com/feargswalsh92" target="_blank">Github </a>and <a href="https://medium.com/@feargswalsh" target="_blank">Medium.</a></li>
       </ul>
     </div>
   </div>
