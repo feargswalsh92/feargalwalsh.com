@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import resumeWord from '/Users/feargalwalsh/Downloads/feargalwalsh.com/src/resumeWord.docx';
 import resumePDF from  '/Users/feargalwalsh/Downloads/feargalwalsh.com/src/resumePDF.pdf';
