@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import resumeWord from '/Users/feargalwalsh/Downloads/feargalwalsh.com/src/resumeWord.docx';
-import resumePDF from  '/Users/feargalwalsh/Downloads/feargalwalsh.com/src/resumePDF.pdf';
-
+import resumeWord from './resumeWord.docx'
+import resumePDF from  './resumePDF.pdf';
 
 class App extends Component {
   state = { isLoaded: true };
