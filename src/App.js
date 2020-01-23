@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import feargalWalshResumeWord from './resumeWord.docx'
-import feargalWalshResumePDF from  './resumePDF.pdf';
+import feargalWalshResumeWord from './feargalWalshResumeWord.docx'
+import feargalWalshResumePDF from  './feargalWalshResumePDF.pdf';
 
 class App extends Component {
   state = { isLoaded: true };
