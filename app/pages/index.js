@@ -28,8 +28,8 @@ export default function Home() {
 
       </main>
 
-      <footer>
-      </footer>
+      {/* <footer>
+      </footer> */}
 
       <style jsx>{`
         main {
