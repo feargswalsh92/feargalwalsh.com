@@ -1,20 +1,30 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
+import { TypeAnimation } from 'react-type-animation';
 
 export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Feargal Walsh - Senior Frontend Developer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <h1 className={styles.title}>
-          Feargal Walsh
-        </h1>
-
-        <TypeAnimation
+      <TypeAnimation
+      sequence={[
+        // Same substring at the start will only be typed out once, initially
+        'Feargal Walsh',
+        1000, // wait 1s before replacing "Mice" with "Hamsters"
+        'Senior Frontend Developer',
+        1000,
+        'Entrepeneur',
+        1000,
+      ]}
+      wrapper="span"
+      speed={30}
+      style={{ fontSize: '4em', display: 'inline-block' }}
+    />
 
       </main>
 
