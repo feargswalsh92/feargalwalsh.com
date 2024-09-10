@@ -16,9 +16,7 @@ export default function Home() {
         // Same substring at the start will only be typed out once, initially
         'Feargal Walsh',
         1000, // wait 1s before replacing "Mice" with "Hamsters"
-        'Senior Frontend Developer',
-        1000,
-        'Entrepeneur',
+        'Senior Software Engineer',
         1000,
       ]}
       wrapper="span"

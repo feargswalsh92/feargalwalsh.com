@@ -8,8 +8,7 @@
   "dependencies": {
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-type-animation": "^3.2.0"
+    "react-dom": "18.2.0"
   },
   "engines": {
     "node": ">=18"
